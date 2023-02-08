@@ -4,12 +4,12 @@ public class RWOnly {
 
     private int name;
 
-   public  void setter(int a)
+   public  void setName(int a)
     {
         name = a;
     }
 
-   public  int getter()
+   public  int getName()
     {
         return name;
     }
